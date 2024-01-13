@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="view_settings">
+        <attr name="couleurTexte" format="color" />
+        <attr name="couleurTiret1" format="color" />
+        <attr name="couleurTiret2" format="color" />
+        <attr name="couleurTrait" format="color" />
+    </declare-styleable>
+</resources>
